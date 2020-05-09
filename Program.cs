@@ -241,7 +241,7 @@ namespace ConsoleApp4
                 {
                     Console.WriteLine(line);
                 }
-                Console.WriteLine("chose your option negro");
+                
                 //string one ='1'
                 string commando = Console.ReadLine ();
                 int pops=Int16.Parse(commando);
